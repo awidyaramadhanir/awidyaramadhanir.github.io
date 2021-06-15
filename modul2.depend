@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1580654370 source:f:\modul2\list.cpp
+	<iostream>
+	"list.h"
+
+1580654374 f:\modul2\list.h
+	<iostream>
+
+1580656029 source:f:\modul2\main.cpp
+	<iostream>
+	"list.h"
+
